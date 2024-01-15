@@ -1,0 +1,9 @@
+torch==1.11
+numpy==1.19.5
+pyyaml
+progress
+pretty_midi
+torchvision==0.12
+tensorboardX
+librosa
+midi2audio

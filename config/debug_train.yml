@@ -1,0 +1,8 @@
+pickle_dir: './dataset/pickle'
+epochs: 500
+batch_size: 16
+load_path:
+dropout: 0.1
+debug: 'true'
+l_r: 0.0001
+label_smooth: 0.1
